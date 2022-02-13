@@ -1,5 +1,5 @@
 export const WORDS = [
-  'paige',
+  'gavel',
   'dunks',
   'water',
   'gavel',
@@ -41,7 +41,7 @@ export const WORDS = [
   'shall',
   'being',
   'often',
-  'paige', //today's word 2/12/2022
+  'paige', 
   'began',
   'since',
   'study',
