@@ -41,7 +41,7 @@ export const WORDS = [
   'shall',
   'being',
   'often',
-  'earth',
+  'paige',
   'began',
   'since',
   'study',
