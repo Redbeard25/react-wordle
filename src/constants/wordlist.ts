@@ -41,7 +41,7 @@ export const WORDS = [
   'shall',
   'being',
   'often',
-  'paige',
+  'paige', //today's word 2/12/2022
   'began',
   'since',
   'study',
