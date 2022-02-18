@@ -1,5 +1,3 @@
 export const WORDS = [
-  'words',
-  'words'
-
+  'drake','count','canon','press','bless','frond','boyce','visit','shout','voice','greet','mercy','unify','choir','godly','unity','faith','booth','guest','cross','ezell','train','sunny','music','swbts','juice','thank','tasty','might','lobby','elect','trams','beach','truth','speak','table','sends','grave','lunch','elder','board','credo','emcee','heart','grove','equip','buses','piano','crown','grace','tithe','hotel','serve','south','guide','enter','paper','flown','sebts','sound','eaten','drive','pixar','prays','order','enact','fried','howdy','stage','films','clerk','hymns','blood','venue','feast','crowd','ridge','bylaw','saved','bride','votes','dever','voter','edify','event','wiley','motel','raise','group','myrrh','plane','songs','annie','alive','sbcec','bible','lines','camps','nobts','moves','crest','state','sower','organ','aisle','unite','yeats','halls','altar','floor','arise','gavel','jesus'
 ]
