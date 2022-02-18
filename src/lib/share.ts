@@ -23,14 +23,14 @@ export const generateEmojiGrid = (guesses: string[]) => {
         .map((_, i) => {
           switch (status[i]) {
             case 'correct':
-              return '🟦 '
+              return '🟦'
             case 'present':
-              return '🟨 '
+              return '🟨'
             default:
               if (localStorage.getItem('theme') === 'dark') {
                 return '⬛ '
               }
-              return '⬜ '
+              return '⬜'
           }
         })
         .join('')
