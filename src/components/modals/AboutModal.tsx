@@ -9,7 +9,9 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
   return (
     <BaseModal title="About" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        This is an open source version of the word guessing game we all know and
+<a href="https://sbcthisweek.com" className="underline font-bold" target="_blank">Brought to you by the fine folks at SBC This Week</a><br ></br><br></br>
+
+        Based on an open source version of the word guessing game we all know and
         love -{' '}
         <a
           href="https://github.com/cwackerfuss/react-wordle"
