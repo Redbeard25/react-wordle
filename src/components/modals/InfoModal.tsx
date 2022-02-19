@@ -1,7 +1,7 @@
 import { Cell } from '../grid/Cell'
 import { BaseModal } from './BaseModal'
 
-type Props = {
+type Props = {  
   isOpen: boolean
   handleClose: () => void
 }
