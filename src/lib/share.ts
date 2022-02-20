@@ -11,6 +11,7 @@ export const shareStatus = (
     `${GAME_TITLE} ${solutionIndex} ${lost ? 'X' : guesses.length}/6${
       isHardMode ? '*' : ''
     }\n\n` + generateEmojiGrid(guesses)
+    'https://sbc22.net'
   )
 }
 
