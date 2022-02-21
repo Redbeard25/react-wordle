@@ -4088,7 +4088,6 @@ export const VALID_GUESSES = [
   'fubar',
   'fubby',
   'fubsy',
-  'fucks',
   'fucus',
   'fuddy',
   'fudge',
