@@ -5378,7 +5378,6 @@ export const VALID_GUESSES = [
   'izard',
   'izars',
   'izzat',
-  'jaaps',
   'jabot',
   'jacal',
   'jacks',
