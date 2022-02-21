@@ -4174,7 +4174,6 @@ export const VALID_GUESSES = [
   'ganef',
   'ganev',
   'gangs',
-  'ganja',
   'ganof',
   'gants',
   'gaols',
