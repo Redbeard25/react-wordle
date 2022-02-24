@@ -29,7 +29,7 @@ export const generateEmojiGrid = (guesses: string[]) => {
               return '🟨'
             default:
               if (localStorage.getItem('theme') === 'dark') {
-                return '⬛ '
+                return '⬛'
               }
               return '⬜'
           }
